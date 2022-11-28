@@ -28,7 +28,7 @@
 
         </div>
 
-        <livewire:items />
+
 
         @livewireScripts
 
